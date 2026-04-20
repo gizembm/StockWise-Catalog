@@ -1,0 +1,10 @@
+[
+  { "id": 1, "name": "Süt", "category": "Süt Ürünleri", "icon": "🥛", "quantity": 2, "unit": "adet", "daysUntilExpiry": 1, "daysSincePurchase": 5 },
+  { "id": 2, "name": "Ekmek", "category": "Fırın", "icon": "🍞", "quantity": 1, "unit": "adet", "daysUntilExpiry": 3, "daysSincePurchase": 2 },
+  { "id": 3, "name": "Yoğurt", "category": "Süt Ürünleri", "icon": "🫙", "quantity": 3, "unit": "adet", "daysUntilExpiry": 5, "daysSincePurchase": 3 },
+  { "id": 4, "name": "Şampuan", "category": "Kişisel Bakım", "icon": "🧴", "quantity": 1, "unit": "şişe", "daysUntilExpiry": 45, "daysSincePurchase": 10 },
+  { "id": 5, "name": "Zeytinyağı", "category": "Mutfak", "icon": "🫒", "quantity": 1, "unit": "şişe", "daysUntilExpiry": 60, "daysSincePurchase": 5 },
+  { "id": 6, "name": "Peynir", "category": "Süt Ürünleri", "icon": "🧀", "quantity": 1, "unit": "paket", "daysUntilExpiry": 7, "daysSincePurchase": 1 },
+  { "id": 7, "name": "Domates", "category": "Sebze", "icon": "🍅", "quantity": 5, "unit": "adet", "daysUntilExpiry": 4, "daysSincePurchase": 2 },
+  { "id": 8, "name": "Deterjan", "category": "Temizlik", "icon": "🧹", "quantity": 2, "unit": "adet", "daysUntilExpiry": 90, "daysSincePurchase": 20 }
+]
