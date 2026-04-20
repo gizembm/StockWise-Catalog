@@ -76,7 +76,7 @@ stockwisemobil/
 
 **1. Repoyu klonla:**
 ```bash
-git clone https://github.com/KULLANICI_ADIN/stockwisemobil.git
+git clone https://github.com/gizem_bm/stockwisemobil.git
 cd stockwisemobil
 ```
 
@@ -167,4 +167,4 @@ Bu proje kapsamında aşağıdaki Flutter konuları uygulamalı olarak kullanıl
 ## 👩‍💻 Geliştirici
 
 **Gizem Efe**
-TNC Group — Flutter Mobil Uygulama Eğitimi
+
